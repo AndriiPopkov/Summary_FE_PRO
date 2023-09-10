@@ -1,0 +1,19 @@
+.par2_styles {
+    color: green;
+    font-size: 30px;
+}
+
+.par3_styles {
+    background-color: green;
+    font-size: 30px;
+}
+
+.par5_styles {
+    background-color: green;
+    color: blue;
+}
+
+.incr_btnmin {
+    margin-top: 10px;
+}
+
